@@ -3,6 +3,17 @@
 
 using namespace std;
 
+/*
+Număr mic 100 puncte
+Enunț
+Mihnea trebuie să deschidă un seif . Codul de acces este dat de cel mai mic număr ce se poate forma din permutarea circulară la dreapta a cifrelor unui număr natural de maxim cinci cifre.
+Cerinţe
+Scrieţi un program care să îl ajute pe Mihnea să determine numărul pentru a deschide seiful.
+Date de intrare
+n număr natural de maxim cinci cifre, citit de la tastatură
+Date de ieşire
+Numărul natural căutat.
+*/
 
 int main()
 {
